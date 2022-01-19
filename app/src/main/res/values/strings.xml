@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">recycler_view_task</string>
+    <string name="app_add_new_car">Add New Car</string>
+    <string name="app_manufacturer">manufacturer</string>
+    <string name="app_year">Year</string>
+    <string name="app_model">Model</string>
+    <string name="app_car_year_string_text">y</string>
+    <string name="empty_year_text">The year field is empty</string>
+    <string name="empty_manufacturer_text">The manufacturer field is empty</string>
+    <string name="empty_model_text">The model field is empty</string>
+
 </resources>
